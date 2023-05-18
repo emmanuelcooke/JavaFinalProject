@@ -1,0 +1,13 @@
+//Open the Student classes and add the following course Code
+//Open the studentservices classes and add the following methods
+//print the code out
+//Test the program to verify it works as expected
+//Create a newstudent.
+//Enroll the student to a few courses.
+//Show the students and courses summary and verify that data is correct.
+//Register a newuser providing a wrong date format.
+//Modify the createStudentMenu method of the PrinterHelperclass so that it handles correctly the exception when a wrong date format is inserted by the user.
+//Catch the exception and show a proper message to the user
+//Write 2Unit tests forthe classStudentService
+//Write 2Unit tests forthe classCourseService
+//Remember that thiswill involve setting up your testing environment! (Refer to instructions shared in the student slack channel if you need them)
